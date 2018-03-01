@@ -1,6 +1,6 @@
 # CADES
 
-Atas das Reuniões
+Atas das Reuniões :busts_in_silhouette:
 
 ## Arquivo
 
