@@ -6,6 +6,10 @@ Atas das Reuniões :busts_in_silhouette:
 
 ### 2018
 
+##### Julho
+
+- [2018-07-02](2018-07-02.md)
+
 ##### Junho
 
 - [2018-06-26](2018-06-26.md)
