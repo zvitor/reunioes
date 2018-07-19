@@ -1,6 +1,9 @@
-# CADES
+<p align="center"><img src="https://cdn.rawgit.com/cades-ifrn/brand/master/ImagensLogo/LogoCADES.png"></p>
 
-Atas das Reuniões :busts_in_silhouette:
+<br/>
+<br/>
+
+# Atas das Reuniões
 
 ## Arquivo
 
