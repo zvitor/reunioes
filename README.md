@@ -1,7 +1,5 @@
 <p align="center"><img src="https://cdn.rawgit.com/cades-ifrn/brand/master/src/png/cor-horizontal.png" width="400"></p>
-<p align="center">:memo: Atas das Reuniões</p>
-
-## Arquivo
+<h1 align="center">Atas das Reuniões</h1>
 
 ### 2018
 
