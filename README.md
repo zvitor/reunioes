@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.rawgit.com/cades-ifrn/brand/master/ImagensLogo/LogoCADES.png"></p>
+<p align="center"><img src="https://cdn.rawgit.com/cades-ifrn/brand/master/src/png/cor-horizontal.png"></p>
 
 <br/>
 <br/>
